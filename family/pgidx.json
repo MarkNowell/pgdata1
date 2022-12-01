@@ -1,0 +1,9 @@
+{
+  "comment": "An individual group index; required fields are just name, images",
+  "name": "Family",
+  "images": [
+    "julia_nowell.jpg",
+    "molly_nowell.jpg",
+    "mark_nowell.jpg"
+  ]
+}

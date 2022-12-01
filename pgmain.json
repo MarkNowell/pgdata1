@@ -1,6 +1,10 @@
 {
-  "name":"Fidget Toys",
-  "baseurl":"https://kgg9g.mocklab.io/pics1/",
-  "icon": "iconpic.jpg",
-  "pics": ["spinner", "snake", "popit"]
+  "comment": "The default main index for picagram image groups",
+  "urldomain": "marknowell.github.io",
+  "urlpath": "pgdata1/",
+  "groups": [
+    "family",
+    "fidgets",
+    "planes"
+  ]
 }

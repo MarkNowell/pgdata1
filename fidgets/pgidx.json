@@ -1,0 +1,14 @@
+{
+  "comment": "An individual group index; required fields are just name, images",
+  "name": "Fidgets",
+  "icon": "popit.jpg",
+  "segx": "2",
+  "segy": "2",
+  "max_pts": 10,
+  "min_pts": 1,
+  "images": [
+    "popit.jpg",
+    "fidget_spinner.jpg",
+    "rubiks_cube.jpg"
+  ]
+}

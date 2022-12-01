@@ -1,0 +1,9 @@
+{
+  "comment": "An individual group index; required fields are just name, images",
+  "name": "Planes",
+  "images": [
+    "cessna_150.jpg",
+    "boeing_747.jpg",
+    "wright_flyer.jpg"
+  ]
+}
